@@ -1,0 +1,4 @@
+Mlin za so i biber sa drvenom strukturom.
+Sadrži navojni gornji deo koji omogućava jednostavno punjenje.
+Na gornjem delu se nalazi zavrtanj koji se može okrenuti i omogućiti prilagođavanje grubosti mlevenja.
+
